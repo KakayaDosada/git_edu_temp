@@ -1,1 +1,3 @@
-print('hello world')
+from settings import *
+
+print(MESSAGE)
