@@ -2,5 +2,7 @@
 
 MESSAGE = 'hello world'
 TEXT = """OH this awesome text make u better """
+COUNT = 5
+
 
 
